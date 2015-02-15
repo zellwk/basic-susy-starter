@@ -4,7 +4,7 @@ This is a starter project template that Ruby Sass to compile Susy into CSS. This
 
 ## Project Setup  
 
-1. Install Susy and Compass 
+1. Install Susy
 
 Skip this step if you already have the Susy gem installed. 
 
